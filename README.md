@@ -1,3 +1,2 @@
 # s2
-repository for second server
-
+repository to use in e.g. render
