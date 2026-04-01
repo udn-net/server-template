@@ -1,0 +1,5 @@
+{
+    "port": 3000,
+    "connectedServers": ["wss://udn-s1.onrender.com"],
+    "subscribedChannels": ["udn-global"]
+}
